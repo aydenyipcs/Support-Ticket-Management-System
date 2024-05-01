@@ -1,10 +1,12 @@
 # Support-Ticket-Management-System
 
-Hi Kyle, Brie and Shanti!
+Hi Kyle, Brie, and Shanti!
 
-Please let me know if you have any questions or concerns, I'm really grateful for this opportunity.
+Thank you for the opportunity to work on this project. It was a lot of fun designing and implementing certain features.
 
-Hope you guys enjoy my design and have an amazing day!
+If you have any questions or concerns, please don't hesitate to reach out!
+
+I hope you all enjoy my design and have an amazing day!
 
 ## Tech Stack
 
